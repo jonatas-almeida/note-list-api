@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "task_name": "Comprar pão",
+      "task_date": "Hoje",
+      "task_description": "Comprar pão e torradas",
+      "id": 3
+    },
+    {
+      "task_name": "Estudar para a prova",
+      "task_date": "Hoje",
+      "task_description": "Estudar a disciplina de cálculo",
+      "id": 4
+    }
+  ],
+  "reminders": [
+    {
+      "id": 1,
+      "reminder_name": "Casamento  da tia",
+      "reminder_date": "10/04/2021",
+      "reminder_description": "Casamento da minha tia Ana",
+      "reminder_finished": false
+    }
+  ]
+}
