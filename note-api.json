@@ -2,15 +2,21 @@
   "tasks": [
     {
       "task_name": "Comprar pão",
-      "task_date": "Hoje",
+      "task_date": "2021-03-19",
       "task_description": "Comprar pão e torradas",
       "id": 3
     },
     {
-      "task_name": "Estudar para a prova",
-      "task_date": "Hoje",
-      "task_description": "Estudar a disciplina de cálculo",
+      "task_name": "Ir para academia",
+      "task_date": "2021-03-19",
+      "task_description": "Preciso ir pra academia treinar pernas",
       "id": 4
+    },
+    {
+      "task_name": "Treino de Taekwondo",
+      "task_date": "2021-03-17",
+      "task_description": "Treino de taekwondo hoje de noite",
+      "id": 5
     }
   ],
   "reminders": [
@@ -20,6 +26,14 @@
       "reminder_date": "10/04/2021",
       "reminder_description": "Casamento da minha tia Ana",
       "reminder_finished": false
+    }
+  ],
+  "finished": [
+    {
+      "task_name": "Ir para academia",
+      "task_date": "2021-03-16",
+      "task_description": "Preciso ir pra academia treinar pernas",
+      "id": 3
     }
   ]
 }
